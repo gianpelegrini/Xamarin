@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRAB2.Views.ProdutoView">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Id"/>
+            <Entry x:Name="txtId">
+            </Entry>
+            <Label Text="Descricao"/>
+            <Entry x:Name="txtDescricao">
+            </Entry>
+            <Label Text="Categoria"/>
+            <Entry x:Name="txtCategoria">
+            </Entry>
+            <Label Text="Quantidade"/>
+            <Entry x:Name="txtQuantidade">
+            </Entry>
+            <Label Text="Preco"/>
+            <Entry x:Name="txtPreco"></Entry>
+            <Button Text="ENVIAR" Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
