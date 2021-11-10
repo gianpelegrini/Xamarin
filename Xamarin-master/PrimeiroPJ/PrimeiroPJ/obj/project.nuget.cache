@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XH3xyTjCsEx4lFWEYTPqCvfr1DW/ox/3uiDq1prM7ljSuXaHzcMhgr+WuAq5s5u0PIYuOJ+n31/Rqx/ROV/f2Q==",
+  "dgSpecHash": "ytxQFaRSlJ691u04iZUHyCmM3j8GymJLWLf9MpnJm3kgnCb7BLn+6OY4foOP5eBUbS9RYUeyWDFdXRxHpqVENA==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ\\PrimeiroPJ.csproj",
+  "projectFilePath": "C:\\Users\\Gian\\Desktop\\ADS\\PDM\\Xamarin1\\Xamarin\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ\\PrimeiroPJ.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gian\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Gian\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

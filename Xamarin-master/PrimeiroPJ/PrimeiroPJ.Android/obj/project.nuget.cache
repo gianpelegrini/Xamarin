@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Dib1QbSbvE3cQcaUXFWGd5xX75FMSy0t8R5p23GdhVUkFOdDjMUG1HOQnMel+J9aHfHBjwqLQmq2uVzU//uVQ==",
+  "dgSpecHash": "l1h+hPuI5aHWCjc7HazOiIPYuPmnzrtHhDM8AUDafhMX+tZFK42J7dqrzIc1mADe/T/jarKuTvgN09co8HiJCQ==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ.Android\\PrimeiroPJ.Android.csproj",
+  "projectFilePath": "C:\\Users\\Gian\\Desktop\\ADS\\PDM\\Xamarin1\\Xamarin\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ.Android\\PrimeiroPJ.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gian\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

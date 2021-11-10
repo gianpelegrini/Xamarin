@@ -2149,11 +2149,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Downloads\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ.Android\\PrimeiroPJ.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Gian\\Desktop\\ADS\\PDM\\Xamarin1\\Xamarin\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ.Android\\PrimeiroPJ.Android.csproj",
       "projectName": "PrimeiroPJ.Android",
-      "projectPath": "D:\\Downloads\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ.Android\\PrimeiroPJ.Android.csproj",
+      "projectPath": "C:\\Users\\Gian\\Desktop\\ADS\\PDM\\Xamarin1\\Xamarin\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ.Android\\PrimeiroPJ.Android.csproj",
       "packagesPath": "C:\\Users\\Gian\\.nuget\\packages\\",
-      "outputPath": "D:\\Downloads\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ.Android\\obj\\",
+      "outputPath": "C:\\Users\\Gian\\Desktop\\ADS\\PDM\\Xamarin1\\Xamarin\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2176,8 +2176,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "D:\\Downloads\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ\\PrimeiroPJ.csproj": {
-              "projectPath": "D:\\Downloads\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ\\PrimeiroPJ.csproj"
+            "C:\\Users\\Gian\\Desktop\\ADS\\PDM\\Xamarin1\\Xamarin\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ\\PrimeiroPJ.csproj": {
+              "projectPath": "C:\\Users\\Gian\\Desktop\\ADS\\PDM\\Xamarin1\\Xamarin\\Xamarin-master\\PrimeiroPJ\\PrimeiroPJ\\PrimeiroPJ.csproj"
             }
           }
         }
