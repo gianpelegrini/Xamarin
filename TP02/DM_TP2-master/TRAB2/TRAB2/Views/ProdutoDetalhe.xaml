@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRAB2.Views.ProdutoDetalhe">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Id:" HorizontalOptions="FillAndExpand" />
+            <Entry Placeholder="{Binding Id}" FontAttributes="Bold"></Entry>
+            <Label Text="Descricao:" HorizontalOptions="FillAndExpand" />
+            <Entry Placeholder="{Binding Descricao}" FontAttributes="Bold"></Entry>
+            <Label Text="Categoria:" HorizontalOptions="FillAndExpand" />
+            <Entry Placeholder="{Binding Categoria}" FontAttributes="Bold"></Entry>
+            <Label Text="Quantidade:" HorizontalOptions="FillAndExpand" />
+            <Entry Placeholder="{Binding Quantidade}" FontAttributes="Bold"></Entry>
+            <Label Text="Preco:" HorizontalOptions="FillAndExpand" />
+            <Entry Placeholder="{Binding Preco}" FontAttributes="Bold"></Entry>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

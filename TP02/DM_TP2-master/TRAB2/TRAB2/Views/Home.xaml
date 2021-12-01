@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TRAB2.Views.Home">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Nome"/>
+            <Entry x:Name="txtNome">
+            </Entry>
+            <Label Text="Idade"/>
+            <Entry x:Name="txtIdade">
+            </Entry>
+            <Label Text="Profissao"/>
+            <Entry x:Name="txtProfissao">
+            </Entry>
+            <Label Text="País"/>
+            <Entry x:Name="txtPais"></Entry>
+            <Button Text="ENVIAR" Clicked="Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
