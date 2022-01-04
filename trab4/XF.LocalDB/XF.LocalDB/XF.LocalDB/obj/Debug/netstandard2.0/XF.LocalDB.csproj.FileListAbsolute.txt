@@ -1,0 +1,17 @@
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.deps.json
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.dll
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\ref\XF.LocalDB.dll
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\bin\Debug\netstandard2.0\XF.LocalDB.pdb
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfoInputs.cache
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.AssemblyInfo.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.CoreCompileInputs.cache
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.dll
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\ref\XF.LocalDB.dll
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.pdb
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\MainPage.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\View\Aluno\NovoAlunoView.xaml.g.cs
+D:\Desktop\faculdade\mobileTuller\MobileIfsp\TpFinal\XF.LocalDB\XF.LocalDB\XF.LocalDB\obj\Debug\netstandard2.0\XF.LocalDB.csproj.AssemblyReference.cache
